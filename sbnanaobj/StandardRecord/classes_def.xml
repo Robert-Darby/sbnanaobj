@@ -358,6 +358,8 @@
    <version ClassVersion="10" checksum="2672302824"/>
   </class>
   <class name="std::vector<caf::SROpFlash>" />
+  <class name="caf::SRMichelTag"/>
+  <class name="std::vector<caf::SRMichelTag>"/>
   <class name="caf::SRCRTPMTMatch" ClassVersion="10" >
    <version ClassVersion="10" checksum="2059576953"/>
   </class>

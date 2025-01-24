@@ -18,6 +18,7 @@
 #include "sbnanaobj/StandardRecord/SRTruthBranch.h"
 #include "sbnanaobj/StandardRecord/SRFakeReco.h"
 #include "sbnanaobj/StandardRecord/SROpFlash.h"
+#include "sbnanaobj/StandardRecord/SRMichelTag.h"
 
 /// Common Analysis Files
 namespace caf
